@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137006646129",
+    "project_id": "mobile-5cdd8",
+    "storage_bucket": "mobile-5cdd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137006646129:android:7bd7164e5368644c44ecd0",
+        "android_client_info": {
+          "package_name": "com.jerondev.travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYcDFeQRJY6mTYRusN4olu1v0nJHZDR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

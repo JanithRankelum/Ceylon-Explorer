@@ -1,0 +1,86 @@
+name: ceylon_explorer
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.6
+  geolocator: ^11.0.0 # Add the geolocator package
+  translator: ^1.0.0
+  speech_to_text: ^6.6.1
+  permission_handler: ^11.3.1
+  flutter_map: ^6.1.0
+  photo_view: ^0.14.0
+  firebase_auth: ^4.4.0  # Firebase Authentication package
+  flutter_facebook_auth: ^6.0.4  # Facebook Authentication package
+  google_sign_in: ^6.2.1
+  
+
+
+
+
+
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.2.1
+  ionicons: ^0.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/places/
+    - assets/icons/
+    - assets/
+    - assets/places/Provinces/Central/Kandy/
+    - assets/places/Provinces/Central/Mathale/
+    - assets/places/Provinces/Central/Nuwara Eliya/
+    - assets/places/Provinces/Eastern/Ampara/
+    - assets/places/Provinces/Eastern/Batticaloa/
+    - assets/places/Provinces/Eastern/Trincomalee/
+    - assets/places/Provinces/NorthCentral/Anuradhapura/
+    - assets/places/Provinces/NorthCentral/Polonnaruwa/
+    - assets/places/Provinces/Northern/Jaffna/
+    - assets/places/Provinces/Northern/Kilinochchi/
+    - assets/places/Provinces/Northern/Mannar/
+    - assets/places/Provinces/Northern/Mulathivu/
+    - assets/places/Provinces/Northern/Vavuniya/
+    - assets/places/Provinces/Sabaragamuwa/Kegalle/
+    - assets/places/Provinces/Sabaragamuwa/Rathanapura/
+    - assets/places/Provinces/Southern/Galle/
+    - assets/places/Provinces/Southern/Hambanthota/
+    - assets/places/Provinces/Southern/Mathara/
+    - assets/places/Provinces/Uva/Badulla/
+    - assets/places/Provinces/Uva/Monaragala/
+    - assets/places/Provinces/Western/Colombo/
+    - assets/places/Provinces/Western/Gampaha/
+    - assets/places/Provinces/Western/Kaluthara/
+    - assets/places/Provinces/NorthWestern/Kurunegala/
+    - assets/places/Provinces/NorthWestern/Puttalam/
+    - assets/icons/Taxi/
+    - assets/icons/Accomodation/
+    - assets/icons/Foods/
+    - assets/icons/Maps/
+
+
+
+
+
+
+
